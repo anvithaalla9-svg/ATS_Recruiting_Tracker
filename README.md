@@ -18,7 +18,7 @@ Application, Recruiter Review, Screening, Interview, Offer, Background Check, th
 - 4 custom objects: Job_Opening__c, Candidate__c, Interview__c and Offer__c, with fields, picklists and relationships between them.
 - Loaded 97 candidate records and 10 job openings with the Data Import Wizard.
 - Used a unique Email field and an External ID so records match correctly on import.
-- Reports that group candidates by job opening and stage.
+- A report grouped by job opening, with each candidate's stage shown.
 
 **Jira (free Cloud site)**
 - One epic with subtasks to plan the work.
@@ -27,6 +27,20 @@ Application, Recruiter Review, Screening, Interview, Offer, Background Check, th
 **Excel**
 - A workbook with 4 sheets: Candidates, Job Openings, Metrics Dashboard and Stage Duration Analysis.
 - Metrics are calculated with live formulas (SUMPRODUCT, COUNTIFS, AVERAGEIFS), so changing the data updates every number.
+
+## Screenshots
+
+**Salesforce report: candidates grouped by job opening, with stage shown**
+
+![Salesforce report](salesforce_report.png)
+
+**A candidate record, linked to a job opening, with stage and rejection details**
+
+![Candidate record](candidate_record.png)
+
+**Jira epic with subtasks, plus issues logged during the build**
+
+![Jira epic](jira_epic.png)
 
 ## Data model
 
