@@ -1,0 +1,11 @@
+Name,Title__c,Department__c,Status__c,Open_Date__c,Target_Hires__c
+JO-01,Process Engineer II,Manufacturing,Open,2026-02-12,2
+JO-02,Yield Engineer,Manufacturing,Open,2026-02-09,1
+JO-03,Test Engineer,Quality,Open,2026-02-18,2
+JO-04,Equipment Engineer,Manufacturing,Open,2026-02-17,3
+JO-05,DFT Engineer,Design,Open,2026-03-03,1
+JO-06,Quality Engineer,Quality,Open,2026-02-17,1
+JO-07,Supply Chain Analyst,Operations,Open,2026-02-09,3
+JO-08,"Software Engineer, Tools",Engineering,Open,2026-02-01,1
+JO-09,"Data Analyst, Ops",Operations,Open,2026-02-12,2
+JO-10,Manufacturing Technician,Manufacturing,Open,2026-02-10,3

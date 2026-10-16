@@ -1,0 +1,98 @@
+Name,First_Name__c,Last_Name__c,Email__c,Phone__c,Application_Date__c,job_opening__c,source__c,stage__c,Rejection_stage__c,Rejection_reason__c
+Hayden Jackson,Hayden,Jackson,hayden.jackson1@example.com,(501) 555-1001,2026-02-27,JO-01,LinkedIn,Rejected,Recruiter Review,Resume mismatch
+Taylor Garcia,Taylor,Garcia,taylor.garcia2@example.com,(502) 555-1002,2026-04-01,JO-01,LinkedIn,Hired,,
+Sydney Brown,Sydney,Brown,sydney.brown3@example.com,(503) 555-1003,2026-02-25,JO-01,LinkedIn,Rejected,Interview,Failed technical assessment
+Elliot Taylor,Elliot,Taylor,elliot.taylor4@example.com,(504) 555-1004,2026-02-12,JO-01,Indeed,Hired,,
+Avery Roberts,Avery,Roberts,avery.roberts5@example.com,(505) 555-1005,2026-03-14,JO-01,Indeed,Rejected,Offer,Candidate withdrew
+Blake Thomas,Blake,Thomas,blake.thomas6@example.com,(506) 555-1006,2026-05-13,JO-01,Indeed,Rejected,Recruiter Review,Underqualified
+Bailey White,Bailey,White,bailey.white7@example.com,(507) 555-1007,2026-05-21,JO-02,Indeed,Hired,,
+Finley Adams,Finley,Adams,finley.adams8@example.com,(508) 555-1008,2026-06-22,JO-02,Referral,Rejected,Interview,Not selected - other candidate
+Reagan Nguyen,Reagan,Nguyen,reagan.nguyen9@example.com,(509) 555-1009,2026-04-09,JO-02,University Fair,Hired,,
+Jordan Davis,Jordan,Davis,jordan.davis10@example.com,(510) 555-1010,2026-04-20,JO-02,Career Site,Rejected,Recruiter Review,Compensation mismatch
+Riley Patel,Riley,Patel,riley.patel11@example.com,(511) 555-1011,2026-02-18,JO-02,Indeed,Hired,,
+Elliot Baker,Elliot,Baker,elliot.baker12@example.com,(512) 555-1012,2026-05-27,JO-02,Career Site,Rejected,Interview,Not selected - other candidate
+Morgan Moore,Morgan,Moore,morgan.moore13@example.com,(513) 555-1013,2026-02-09,JO-02,LinkedIn,Rejected,Recruiter Review,Underqualified
+Hayden Carter,Hayden,Carter,hayden.carter14@example.com,(514) 555-1014,2026-03-06,JO-02,LinkedIn,Hired,,
+Morgan Wright,Morgan,Wright,morgan.wright15@example.com,(515) 555-1015,2026-02-28,JO-02,Indeed,Hired,,
+Riley Jackson,Riley,Jackson,riley.jackson16@example.com,(516) 555-1016,2026-06-05,JO-02,LinkedIn,Hired,,
+Reese Johnson,Reese,Johnson,reese.johnson17@example.com,(517) 555-1017,2026-06-19,JO-02,Indeed,Rejected,Screening,Compensation mismatch
+Wren Perez,Wren,Perez,wren.perez18@example.com,(518) 555-1018,2026-06-11,JO-02,LinkedIn,Hired,,
+Adrian Young,Adrian,Young,adrian.young19@example.com,(519) 555-1019,2026-03-25,JO-02,Career Site,Rejected,Interview,Not selected - other candidate
+Sam Kim,Sam,Kim,sam.kim20@example.com,(520) 555-1020,2026-06-10,JO-02,Referral,Rejected,Recruiter Review,Resume mismatch
+Elliot Clark,Elliot,Clark,elliot.clark21@example.com,(521) 555-1021,2026-06-20,JO-03,LinkedIn,Rejected,Screening,Not selected - other candidate
+Dakota Brown,Dakota,Brown,dakota.brown22@example.com,(522) 555-1022,2026-03-07,JO-03,Career Site,Rejected,Recruiter Review,Underqualified
+Cameron Harris,Cameron,Harris,cameron.harris23@example.com,(523) 555-1023,2026-03-26,JO-03,LinkedIn,Rejected,Offer,Candidate withdrew
+Emerson Anderson,Emerson,Anderson,emerson.anderson24@example.com,(524) 555-1024,2026-06-22,JO-03,Indeed,Rejected,Screening,Not selected - other candidate
+Cameron Roberts,Cameron,Roberts,cameron.roberts25@example.com,(525) 555-1025,2026-05-06,JO-03,LinkedIn,Hired,,
+Rowan Anderson,Rowan,Anderson,rowan.anderson26@example.com,(526) 555-1026,2026-03-18,JO-03,University Fair,Rejected,Recruiter Review,Compensation mismatch
+Sydney Scott,Sydney,Scott,sydney.scott27@example.com,(527) 555-1027,2026-04-05,JO-03,Career Site,Hired,,
+Harper Walker,Harper,Walker,harper.walker28@example.com,(528) 555-1028,2026-02-18,JO-03,LinkedIn,Rejected,Background Check,Failed background check
+Logan Hall,Logan,Hall,logan.hall29@example.com,(529) 555-1029,2026-04-22,JO-03,Indeed,Rejected,Screening,Not selected - other candidate
+Taylor Green,Taylor,Green,taylor.green30@example.com,(530) 555-1030,2026-06-18,JO-04,LinkedIn,Hired,,
+Drew Taylor,Drew,Taylor,drew.taylor31@example.com,(531) 555-1031,2026-05-09,JO-04,Referral,Hired,,
+Avery Patel,Avery,Patel,avery.patel32@example.com,(532) 555-1032,2026-04-27,JO-04,LinkedIn,Rejected,Interview,Failed technical assessment
+Casey Adams,Casey,Adams,casey.adams33@example.com,(533) 555-1033,2026-06-28,JO-04,Referral,Rejected,Interview,Not selected - other candidate
+Adrian Adams,Adrian,Adams,adrian.adams34@example.com,(534) 555-1034,2026-04-05,JO-04,LinkedIn,Hired,,
+Micah White,Micah,White,micah.white35@example.com,(535) 555-1035,2026-04-12,JO-04,Indeed,Rejected,Offer,Candidate withdrew
+Finley Wilson,Finley,Wilson,finley.wilson36@example.com,(536) 555-1036,2026-02-17,JO-04,Indeed,Hired,,
+Kendall Roberts,Kendall,Roberts,kendall.roberts37@example.com,(537) 555-1037,2026-06-20,JO-04,Indeed,Hired,,
+Harper Garcia,Harper,Garcia,harper.garcia38@example.com,(538) 555-1038,2026-05-21,JO-04,LinkedIn,Rejected,Screening,Compensation mismatch
+Blake Thomas,Blake,Thomas,blake.thomas39@example.com,(539) 555-1039,2026-04-28,JO-04,Referral,Rejected,Interview,Not selected - other candidate
+Rowan Taylor,Rowan,Taylor,rowan.taylor40@example.com,(540) 555-1040,2026-03-12,JO-05,Career Site,Rejected,Recruiter Review,Compensation mismatch
+Jamie Thomas,Jamie,Thomas,jamie.thomas41@example.com,(541) 555-1041,2026-04-07,JO-05,Referral,Hired,,
+Sam Lewis,Sam,Lewis,sam.lewis42@example.com,(542) 555-1042,2026-03-03,JO-05,Career Site,Hired,,
+Cameron Green,Cameron,Green,cameron.green43@example.com,(543) 555-1043,2026-06-14,JO-05,LinkedIn,Hired,,
+Sydney Garcia,Sydney,Garcia,sydney.garcia44@example.com,(544) 555-1044,2026-04-25,JO-05,Referral,Rejected,Interview,Not selected - other candidate
+Riley Jackson,Riley,Jackson,riley.jackson45@example.com,(545) 555-1045,2026-06-06,JO-05,Indeed,Rejected,Interview,Not selected - other candidate
+Elliot Nelson,Elliot,Nelson,elliot.nelson46@example.com,(546) 555-1046,2026-04-30,JO-06,Indeed,Rejected,Interview,Not selected - other candidate
+Quinn Young,Quinn,Young,quinn.young47@example.com,(547) 555-1047,2026-06-18,JO-06,LinkedIn,Rejected,Interview,Failed technical assessment
+Peyton Lewis,Peyton,Lewis,peyton.lewis48@example.com,(548) 555-1048,2026-06-17,JO-06,LinkedIn,Hired,,
+Emerson Nelson,Emerson,Nelson,emerson.nelson49@example.com,(549) 555-1049,2026-02-17,JO-06,LinkedIn,Hired,,
+Micah Baker,Micah,Baker,micah.baker50@example.com,(550) 555-1050,2026-07-01,JO-06,LinkedIn,Rejected,Screening,Not selected - other candidate
+Sam Thomas,Sam,Thomas,sam.thomas51@example.com,(551) 555-1051,2026-04-09,JO-06,Indeed,Hired,,
+Casey Moore,Casey,Moore,casey.moore52@example.com,(552) 555-1052,2026-07-01,JO-06,Career Site,Rejected,Interview,Failed technical assessment
+Parker Baker,Parker,Baker,parker.baker53@example.com,(553) 555-1053,2026-04-19,JO-06,LinkedIn,Rejected,Offer,Candidate withdrew
+Jordan Harris,Jordan,Harris,jordan.harris54@example.com,(554) 555-1054,2026-03-17,JO-06,Indeed,Hired,,
+Avery Walker,Avery,Walker,avery.walker55@example.com,(555) 555-1055,2026-06-07,JO-06,Referral,Rejected,Interview,Not selected - other candidate
+Alex Roberts,Alex,Roberts,alex.roberts56@example.com,(556) 555-1056,2026-02-14,JO-07,Referral,Hired,,
+Avery Lewis,Avery,Lewis,avery.lewis57@example.com,(557) 555-1057,2026-06-22,JO-07,Indeed,Rejected,Recruiter Review,Underqualified
+Reagan Davis,Reagan,Davis,reagan.davis58@example.com,(558) 555-1058,2026-03-12,JO-07,Indeed,Hired,,
+Kendall Walker,Kendall,Walker,kendall.walker59@example.com,(559) 555-1059,2026-06-10,JO-07,Career Site,Hired,,
+Quinn Jackson,Quinn,Jackson,quinn.jackson60@example.com,(560) 555-1060,2026-04-01,JO-07,Indeed,Rejected,Recruiter Review,Compensation mismatch
+Sawyer King,Sawyer,King,sawyer.king61@example.com,(561) 555-1061,2026-03-11,JO-07,Referral,Hired,,
+Casey Nelson,Casey,Nelson,casey.nelson62@example.com,(562) 555-1062,2026-04-09,JO-07,Indeed,Rejected,Offer,Candidate withdrew
+Rowan Clark,Rowan,Clark,rowan.clark63@example.com,(563) 555-1063,2026-02-24,JO-07,University Fair,Hired,,
+Peyton Anderson,Peyton,Anderson,peyton.anderson64@example.com,(564) 555-1064,2026-05-09,JO-07,LinkedIn,Rejected,Interview,Not selected - other candidate
+Reagan Clark,Reagan,Clark,reagan.clark65@example.com,(565) 555-1065,2026-03-13,JO-07,Indeed,Hired,,
+Parker Clark,Parker,Clark,parker.clark66@example.com,(566) 555-1066,2026-05-13,JO-07,LinkedIn,Rejected,Recruiter Review,Compensation mismatch
+Morgan Carter,Morgan,Carter,morgan.carter67@example.com,(567) 555-1067,2026-04-15,JO-07,Career Site,Rejected,Interview,Not selected - other candidate
+Taylor Lewis,Taylor,Lewis,taylor.lewis68@example.com,(568) 555-1068,2026-02-09,JO-07,Indeed,Rejected,Screening,Compensation mismatch
+Blake Scott,Blake,Scott,blake.scott69@example.com,(569) 555-1069,2026-03-06,JO-07,LinkedIn,Hired,,
+Elliot Patel,Elliot,Patel,elliot.patel70@example.com,(570) 555-1070,2026-02-04,JO-08,Indeed,Hired,,
+Casey Adams,Casey,Adams,casey.adams71@example.com,(571) 555-1071,2026-04-19,JO-08,Career Site,Rejected,Recruiter Review,Underqualified
+Taylor Lewis,Taylor,Lewis,taylor.lewis72@example.com,(572) 555-1072,2026-03-02,JO-08,University Fair,Hired,,
+Taylor Allen,Taylor,Allen,taylor.allen73@example.com,(573) 555-1073,2026-05-25,JO-08,LinkedIn,Rejected,Interview,Not selected - other candidate
+Reagan Patel,Reagan,Patel,reagan.patel74@example.com,(574) 555-1074,2026-02-06,JO-08,Indeed,Rejected,Interview,Not selected - other candidate
+Skyler Walker,Skyler,Walker,skyler.walker75@example.com,(575) 555-1075,2026-02-01,JO-08,Indeed,Hired,,
+Peyton White,Peyton,White,peyton.white76@example.com,(576) 555-1076,2026-05-19,JO-08,LinkedIn,Rejected,Recruiter Review,Underqualified
+Sawyer Baker,Sawyer,Baker,sawyer.baker77@example.com,(577) 555-1077,2026-06-12,JO-08,Indeed,Rejected,Recruiter Review,Compensation mismatch
+Skyler Smith,Skyler,Smith,skyler.smith78@example.com,(578) 555-1078,2026-06-14,JO-08,Indeed,Rejected,Screening,Compensation mismatch
+Harper Green,Harper,Green,harper.green79@example.com,(579) 555-1079,2026-06-06,JO-08,Indeed,Rejected,Recruiter Review,Underqualified
+Blake Wilson,Blake,Wilson,blake.wilson80@example.com,(580) 555-1080,2026-04-12,JO-08,LinkedIn,Hired,,
+Logan Baker,Logan,Baker,logan.baker81@example.com,(581) 555-1081,2026-05-17,JO-08,Career Site,Rejected,Interview,Not selected - other candidate
+Riley Patel,Riley,Patel,riley.patel82@example.com,(582) 555-1082,2026-02-25,JO-09,LinkedIn,Rejected,Screening,Not selected - other candidate
+Sydney Davis,Sydney,Davis,sydney.davis83@example.com,(583) 555-1083,2026-05-20,JO-09,Referral,Hired,,
+Skyler Green,Skyler,Green,skyler.green84@example.com,(584) 555-1084,2026-06-23,JO-09,Career Site,Rejected,Screening,Compensation mismatch
+Dakota Walker,Dakota,Walker,dakota.walker85@example.com,(585) 555-1085,2026-03-19,JO-09,Referral,Rejected,Screening,Not selected - other candidate
+Jordan Patel,Jordan,Patel,jordan.patel86@example.com,(586) 555-1086,2026-03-28,JO-09,Indeed,Rejected,Interview,Not selected - other candidate
+Morgan Patel,Morgan,Patel,morgan.patel87@example.com,(587) 555-1087,2026-05-20,JO-09,LinkedIn,Rejected,Interview,Not selected - other candidate
+Tatum Perez,Tatum,Perez,tatum.perez88@example.com,(588) 555-1088,2026-02-12,JO-09,Indeed,Rejected,Screening,Skills gap
+Drew White,Drew,White,drew.white89@example.com,(589) 555-1089,2026-03-03,JO-10,LinkedIn,Hired,,
+Logan Wright,Logan,Wright,logan.wright90@example.com,(590) 555-1090,2026-05-18,JO-10,Indeed,Rejected,Recruiter Review,Underqualified
+Blake Anderson,Blake,Anderson,blake.anderson91@example.com,(591) 555-1091,2026-05-29,JO-10,Career Site,Rejected,Recruiter Review,Underqualified
+Rowan Green,Rowan,Green,rowan.green92@example.com,(592) 555-1092,2026-06-15,JO-10,Indeed,Hired,,
+Rowan Brown,Rowan,Brown,rowan.brown93@example.com,(593) 555-1093,2026-03-23,JO-10,LinkedIn,Hired,,
+Sawyer Baker,Sawyer,Baker,sawyer.baker94@example.com,(594) 555-1094,2026-04-12,JO-10,Indeed,Rejected,Recruiter Review,Compensation mismatch
+Casey Lewis,Casey,Lewis,casey.lewis95@example.com,(595) 555-1095,2026-02-10,JO-10,Referral,Rejected,Screening,Skills gap
+Wren King,Wren,King,wren.king96@example.com,(596) 555-1096,2026-06-22,JO-10,Referral,Rejected,Background Check,Failed background check
+Micah Baker,Micah,Baker,micah.baker97@example.com,(597) 555-1097,2026-03-13,JO-10,Referral,Hired,,
